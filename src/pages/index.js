@@ -1,7 +1,0 @@
-export * from "./Login"
-export * from "./Home"
-export * from "./Gestion"
-export * from "./Citas"
-export * from "./Favoritos"
-export * from "./Barberos"
-export * from "./Promociones"
